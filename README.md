@@ -4,9 +4,13 @@ Setup Instructions:
 
 Sign into an AWS student lab account.
 Copy the aws credentials (excluding [default]):
+
  aws_access_key_xxxxxxxxxx
+ 
  aws_secret_access_xxxxxxxxxx
+ 
  aws_session_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 
  
  Paste the credentials into both creds.env files (one in repo root, one in /aws directory)
 
